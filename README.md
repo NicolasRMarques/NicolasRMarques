@@ -4,6 +4,12 @@
 
 https://nicolasrmarques.itch.io/asteroid-escape
 
+Void Breaker é um intenso jogo de ação e sobrevivência arcade que coloca você no controle de uma nave solitária em meio ao caos espacial. Enfrente asteroides alienígenas, destrua espaçonaves hostis e atravesse cenários repletos de perigos enquanto luta pela sua sobrevivência.
+
+Mas sua missão não termina aí… No coração do conflito, um buraco negro colossal ameaça consumir tudo ao seu redor. Sua única chance de escapar é destruir o próprio vazio, quebrando as leis do impossível!
+
+Com jogabilidade frenética, desafios crescentes e uma trilha sonora imersiva, Void Breaker entrega uma experiência arcade explosiva, onde cada segundo conta e apenas os mais habilidosos sobreviverão. Você tem o que é preciso para desafiar o vazio? 🚀💥
+
 <!--
 **NicolasRMarques/NicolasRMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
