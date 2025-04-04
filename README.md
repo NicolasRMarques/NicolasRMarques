@@ -1,4 +1,4 @@
-## Asteroid Escape (on development)
+## VOID BREAKER (on development)
 
 ![image](https://github.com/user-attachments/assets/f5dcc4cb-f208-4147-a4bf-cbdc2a87c411)
 
